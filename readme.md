@@ -8,12 +8,12 @@ VueJS 2
 Bootstrap 4
 ```
 
-## Project setup
+### Project setup
 ```
 composer install
 ```
 
-## Migrating Database
+### Migrating Database
 ```
 php artisan migrate
 ```
